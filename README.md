@@ -1,4 +1,4 @@
-🎰 THE LUCKY ARCADE EN JAVA 🖥️ 🎲
+# 🎰 THE LUCKY ARCADE EN JAVA 🖥️ 🎲
 
 Este proyecto tiene como objetivo desarrollar e implementar un juego de tragamonedas interactivo utilizando el lenguaje de programación Java, aplicando conceptos fundamentales de lógica de programación, manejo de archivos y programación estructurada.
 
@@ -12,7 +12,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 
 ⸻
 
-⚙️ ¿Qué se aprende en este proyecto?
+## ⚙️ ¿Qué se aprende en este proyecto?
 
 * Uso de variables y estructuras de control
 * Manejo de Arrays y ArrayList en Java
@@ -32,7 +32,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 
 ⸻
 
-🎮 FUNCIONALIDADES DEL JUEGO
+### 🎮 FUNCIONALIDADES DEL JUEGO
 
 * Sistema de apuestas
 * Sistema de saldo persistente
