@@ -100,8 +100,7 @@ https://docs.oracle.com/javase/tutorial/essential/io/file.html
 https://www.geeksforgeeks.org/arraylist-in-java/
 → Uso de ArrayList
 
-https://www.javatpoint.com/java-switch
-→ Uso de Switch en Java
+
 
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html
 → Ciclos en Java
