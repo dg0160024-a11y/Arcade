@@ -25,7 +25,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 * Manipulación de matrices bidimensionales
 * Implementación de lógica de apuestas y premios
 * Ordenamiento de datos para ranking
-* 
+* Programas interactivos en java
 
 ⸻
 
