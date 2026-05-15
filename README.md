@@ -47,3 +47,70 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 * Interfaz amigable e interactiva
 * Validación de errores y entradas inválidas
 * Guardado automático de progreso en archivo .csv
+
+#### 🗂️ ESTRUCTURA DEL PROYECTO
+
+* Main.java
+    → Contiene toda la lógica principal del juego.
+* jugadores.csv
+    → Archivo donde se almacenan los nombres y saldos de los jugadores.
+
+⸻
+
+##### 🛠️ TECNOLOGÍAS UTILIZADAS
+
+* Java
+* Consola / Terminal
+* Archivos CSV
+* ASCII Art
+
+⸻
+
+###### 👨‍💻 EL EQUIPO SE CONFORMA POR 🌐
+
+• Daniel Gomez Yepes
+
+• Juan Felipe Vanegas Rojas
+
+⸻
+
+### 🔗 ENLACES DE INVESTIGACIÓN
+
+https://www.w3schools.com/java/java_user_input.asp
+→ Entrada de datos con Scanner
+
+https://www.w3schools.com/java/java_arrays.asp
+→ Uso de Arrays en Java
+
+https://www.w3schools.com/java/java_methods.asp
+→ Métodos en Java
+
+https://www.w3schools.com/java/java_files.asp
+→ Manejo de archivos en Java
+
+https://www.geeksforgeeks.org/bufferedreader-class-in-java/
+→ Uso de BufferedReader
+
+https://www.geeksforgeeks.org/bufferedwriter-class-in-java/
+→ Uso de BufferedWriter
+
+https://docs.oracle.com/javase/tutorial/essential/io/file.html
+→ Manejo de archivos y directorios
+
+https://www.geeksforgeeks.org/arraylist-in-java/
+→ Uso de ArrayList
+
+https://www.javatpoint.com/java-switch
+→ Uso de Switch en Java
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html
+→ Ciclos en Java
+
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html
+→ Estructuras condicionales
+
+https://www.programiz.com/java-programming/multidimensional-array
+→ Matrices bidimensionales en Java
+
+https://www.tutorialspoint.com/java/lang/thread_sleep.htm
+→ Uso de Thread.sleep() en Java
