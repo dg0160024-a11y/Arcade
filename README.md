@@ -25,9 +25,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 * Manipulación de matrices bidimensionales
 * Implementación de lógica de apuestas y premios
 * Ordenamiento de datos para ranking
-* Animaciones en consola usando Thread.sleep()
-* Representación gráfica mediante ASCII Art
-* Desarrollo de programas interactivos en Java
+* 
 
 ⸻
 
