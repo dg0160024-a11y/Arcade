@@ -69,7 +69,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 
 • Daniel Gomez Yepes
 
-• Juan Felipe Vanegas Rojas
+• Juan Felipe Vanegas 
 
 ⸻
 
