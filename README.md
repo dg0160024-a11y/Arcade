@@ -67,7 +67,7 @@ En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola
 
 ###### 👨‍💻 EL EQUIPO SE CONFORMA POR 🌐
 
-• Daniel Gomez Yepes
+• Daniel Gomez 
 
 • Juan Felipe Vanegas 
 
