@@ -10,7 +10,6 @@ También se utilizan estructuras de datos, validaciones y métodos organizados p
 
 En resumen, este proyecto demuestra cómo desarrollar una aplicación de consola en Java capaz de manejar datos persistentes, lógica de videojuegos básicos y simulaciones visuales mediante ASCII Art.
 
-⸻
 
 ## ⚙️ ¿Qué se aprende en este proyecto?
 
